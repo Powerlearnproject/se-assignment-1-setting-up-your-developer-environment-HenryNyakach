@@ -1,0 +1,12 @@
+Here is my set up documentation
+I downloaded and Installed Windows 11 from https://www.microsoft.com/software-download/windows11 using a USB drive.I then went a head to set up my browser and thereafter downloaded and installed VS Code from https://code.visualstudio.com/Download. After the successfull download, I added the VS Code into my path. 
+
+I succesfully installed Git and configured it on my local machine. I created a GitHub account for hosting my repositories, and initialized a Git repository for your project and made my first commit; https://github.com/henrynyakach/.
+
+I installed Python from http://wwww.python.org, and added it to my path. I checked for its version on git, and tried to write a code. After successfully running the code, I pushed it to my Github account and named it my first code in Python.I also went ahead to install pip (Python).
+
+I downloaded and installed MySQL database from https://dev.mysql.com/downloads/windows/installer/5.7.html. i configured it and it was succesfully added to Path. I also downloaded and installed Dart and Flutter.
+
+Interacting with the VS Code, I've installed several extensions, including, Dart, Data Wrangler, Deno, Live Server, Live Share, Pylance, Python, GitHub Classroom, GitHub Pull Request, Python debugger and Python Image Preview.
+
+Reflecting on my set up process, I wasn't able to set up during the live classes since my laptop had broken down, but after aquiring a new one, the class recordings have been very usefull in the process. I have comfortably been able to set up all the necessary applications.
